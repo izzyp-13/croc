@@ -13,6 +13,8 @@ Status"></a>
 
 `croc` is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, *croc* is the only CLI file-transfer tool does **all** of the following:
 
+I am using this open-source software to learn more about forking projects on GitHub. 
+
 - allows **any two computers** to transfer data (using a relay)
 - provides **end-to-end encryption** (using PAKE)
 - enables easy **cross-platform** transfers (Windows, Linux, Mac)
